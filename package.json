@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "desislav.s.damyanov@gmail.com",
   "license": "MIT",
-  "description": "Simple dep injection system",
+  "description": "Simple plugins ( functions ) loader with dependency injection",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
